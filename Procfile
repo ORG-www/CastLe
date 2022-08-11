@@ -1,1 +1,0 @@
-web: gunicorn PYAPP.wsgi --log-file -
