@@ -8,12 +8,13 @@ The frontend is rendered using Django and written with HTML, CSS , Bootstrap
 
 NOTE: Do not copy this webapp for your project.
 
-![](SS/Screenshot (324).png)
-![](SS/Screenshot (325).png)
-![](SS/Screenshot (326).png)
-![](SS/Screenshot (327).png)
-![](SS/Screenshot (328).png)
-![](SS/Screenshot (329).png)
+<img src="SS/Screenshot (324).png">
+<img src="SS/Screenshot (325).png">
+<img src="SS/Screenshot (326).png">
+<img src="SS/Screenshot (327).png">
+<img src="SS/Screenshot (328).png">
+<img src="SS/Screenshot (329).png">
+
 
 
  
